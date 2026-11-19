@@ -1,0 +1,9 @@
+# Environment Variables and Secrets
+.env
+.env.local
+.env*.local
+supabase/.env
+
+# Supabase CLI and temporary files
+supabase/.temp/
+supabase/.branches/
