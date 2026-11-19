@@ -31,3 +31,4 @@ supabase link
 ```
 then select your project from the menu.
 
+See security documentation at [securitysetup.md](securitysetup.md)
