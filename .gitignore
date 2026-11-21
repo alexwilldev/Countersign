@@ -3,6 +3,10 @@
 .env.local
 .env*.local
 supabase/.env
+.DS_Store
+__pychache__/
+venv/
+node_modules/
 
 # Supabase CLI and temporary files
 supabase/.temp/
