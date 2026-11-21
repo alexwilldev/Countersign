@@ -7,7 +7,10 @@
  ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-An expense tracking and verification software.          
+An expense tracking and verification software.   
+
+## Installation
+Coming soon upon alpha release. 
 
 ## Development
 1. Create a new Supabase project, save the database password to your password manager and enable Row Level Security (RLS)
